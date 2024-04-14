@@ -1,11 +1,9 @@
 import React from 'react'
 import HeroSlider from "@/components/HeroSlider";
 import Testimonials from "@/components/Testimonials";
-import NavBar from "@/components/NavBar";
 import Outlets from "@/components/Outlets";
 import WeServe from "@/components/WeServe";
 import FeatureProducts from "@/components/FeatureProducts";
-import Footer from "@/components/Footer";
 import Namkeen from "../../public/SliderImage/namkeen.png";
 import SinceLogo from '../../public/SINCE_LOGO1.png';
 import Image from "next/image";
@@ -107,20 +105,25 @@ const TestimonialsData = [
 ]
 export default function Home() {
     return (
-        <div className="relative font-">
-            <NavBar/>
-            <HeroSlider SliderData={SliderData}/>
-            <div className="max-w-[1440px] flex items-center justify-center my-[30px] md:my-[50px] lg:my-[100px]">
-                <Image src={SinceLogo} alt={'Since1923'} className="w-[300px] md:w-[50%]  object-fill"/>
+        <div className="relative flex justify-center items-center">
+            <div className="max-w-[1440px]">
+                <HeroSlider SliderData={SliderData}/>
+                <div className="max-w-[1440px] flex items-center justify-center my-[30px] md:my-[50px] lg:my-[100px]">
+                    <Image src={SinceLogo} alt={'Since1923'} className="w-[300px] md:w-[50%]  object-fill"/>
+                </div>
+                <div
+                    style={{
+                        backgroundImage: `url('/Pattern1.svg')`,
+                        backgroundRepeat: 'repeat-y',
+                        maxWidth: '1440px',
+                        backgroundSize: 'cover'
+                    }}>
+                    <Outlets/>
+                    <WeServe/>
+                </div>
+                <FeatureProducts/>
+                <Testimonials data={TestimonialsData}/>
             </div>
-            <div
-                style={{backgroundImage: `url('/Pattern1.svg')`, backgroundRepeat: 'repeat-y', maxWidth: '1440px', backgroundSize: 'cover'}}>
-                <Outlets/>
-                <WeServe/>
-            </div>
-            <FeatureProducts/>
-            <Testimonials data={TestimonialsData}/>
-            <Footer/>
         </div>
     );
 }

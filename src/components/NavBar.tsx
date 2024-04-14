@@ -13,7 +13,7 @@ const DropDownLinks: DropDownLink[] = [
     {
         id: 1,
         name: 'Sweets',
-        href: 'www.google.com'
+        href: '/'
     },
     {
         id: 2,
