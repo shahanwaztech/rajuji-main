@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-link {
+    font-size: 21px;
+    color: rgb(240, 32, 32);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    cursor: pointer;
+}
+.nav-link:hover{
+    color:#6c757d;
+}
+.featurs-item {
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(223, 224, 231, 0.37);
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(18.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    font-family: "Montserrat", sans-serif;
+}
