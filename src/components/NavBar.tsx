@@ -135,7 +135,7 @@ const NavBar: React.FC = () => {
                         </div>
                     </div>
                     {isOpen && (
-                        <div className="bg-white w-[100vw] z-[9999] h-[100vh] fixed">
+                        <div className="bg-white w-[100vw] z-[9999]  h-[100vh] fixed top-0">
                             <div className="flex flex-col justify-between gap-[30px] my-[30px] items-center">
                                 <div onClick={handleClick} className="nav-link">Home</div>
                                 <div onClick={handleClick} className="nav-link">About Us</div>
