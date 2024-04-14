@@ -6,6 +6,7 @@ import WeServe from "@/components/WeServe";
 import FeatureProducts from "@/components/FeatureProducts";
 import Namkeen from "../../public/SliderImage/namkeen.png";
 import SinceLogo from '../../public/SINCE_LOGO1.png';
+import User from '../../public/TestimonialImage/user1.jpg';
 import Image from "next/image";
 
 const SliderData = [
@@ -36,70 +37,70 @@ const TestimonialsData = [
         id: 1,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 4
     },
     {
         id: 2,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal1',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 5
     },
     {
         id: 3,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal2',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 3
     },
     {
         id: 4,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal3',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 4
     },
     {
         id: 5,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal4',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 4
     },
     {
         id: 6,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal5',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 2
     },
     {
         id: 7,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal6',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 4
     },
     {
         id: 8,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal8',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 3
     },
     {
         id: 9,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal9',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 2
     },
     {
         id: 10,
         description: 'Inki mithaiyan ekdum zabardast hai! Unki motichoor ladoo toh bas dil jeet lete hain! Ladoo yani Rajuji',
         name: 'Rajesh Mittal10',
-        imgSrc: '/TestimonialImage/user1.jpg',
+        imgSrc: User,
         rating: 4
     }
 ]
