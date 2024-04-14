@@ -106,7 +106,7 @@ const TestimonialsData = [
 export default function Home() {
     return (
         <div className="relative flex justify-center items-center">
-            <div className="max-w-[1440px]">
+            <div className="w-[100%] xl:max-w-[1440px]">
                 <HeroSlider SliderData={SliderData}/>
                 <div className="max-w-[1440px] flex items-center justify-center my-[30px] md:my-[50px] lg:my-[100px]">
                     <Image src={SinceLogo} alt={'Since1923'} className="w-[300px] md:w-[50%]  object-fill"/>
