@@ -85,7 +85,6 @@ const NavBar: React.FC = () => {
 
     const handleClick = () => {
         setIsOpen(false)
-        setIsDropDown(!isDropDown)
     }
 
     return (
@@ -149,29 +148,33 @@ const NavBar: React.FC = () => {
                                     </Link>
                                 </div>
                                 <div
-                                    className="relative nav-link transition-transform flex flex-cols items-center justify-center gap-[10px]"
+                                    className="relative nav-link transition-transform flex flex-col items-center justify-center gap-[10px]"
                                     ref={dropDownRef}
                                     onMouseEnter={() => setIsHovered(true)}
                                     onMouseLeave={() => setIsHovered(false)}
                                     onClick={() => setIsDropDown(!isDropDown)}
                                 >
+                                    <div className="flex flex-row gap-[5px] w-[100%]">
                                     <div>Our Products</div>
-                                    <Image src="/dropdownred.png" alt={'dropdown'}
-                                           width={12}
-                                           height={12}/>
+                                    <Image src={isHovered ? "/dropdowngray.png" : "/dropdownred.png"} alt={'dropdown'}
+                                           width={16}
+                                           height={1}/>
+                                    </div>
+                                    {isDropDown && (
+                                        <ul className="relative transition-transform delay-105 text-center">
+                                            {DropDownLinks.map((menu) => (
+                                                <Link href={`/OurProducts/${menu.slug}`} key={menu.id}>
+                                                    <li onClick={handleClick}
+                                                        className="flex w-[200px] justify-center text-center text-[#6c757d] text-[18px] font-normal py-[10px] hover:bg-gray-200">
+                                                        {menu.name}
+                                                    </li>
+                                                </Link>
+                                            ))}
+                                        </ul>
+                                    )}
                                 </div>
-                                {isDropDown && (
-                                    <ul className="relative transition-transform  text-center my-[-20px] list-none">
-                                        {DropDownLinks.map((menu) => (
-                                            <div onClick={() => router.push(`/OurProducts/${menu.slug}`)} key={menu.id}>
-                                                <li onClick={handleClick}
-                                                    className="flex w-[200px] justify-center text-center text-black py-[10px] font-normal text-[18px] hover:bg-gray-200">
-                                                    {menu.name}
-                                                </li>
-                                            </div>
-                                        ))}
-                                    </ul>
-                                )}
+                            </div>
+                            <div className="flex flex-col gap-[20px] items-center justify-center">
                                 <div onClick={handleClick} className="nav-link">
                                     <Link href="/OurClients">
                                         Our Clients

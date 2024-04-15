@@ -48,7 +48,7 @@ const OurProducts = () => {
                 <div className="w-[100%] gap-[20px] flex flex-col mt-[20px] mb-[40px]">
                     {product && product.CardContent.map((item, index) => (
                         <div key={index} className="px-[20px] md:px-[40px] w-[100%]">
-                            <h1 className={`text-[#212529] ${index % 2 === 0 ? 'font-extrabold text-[30px] md:text-[50px]' : 'font-medium text-[20px] md:text-[30px]'} my-[20px]`}>{item.title}</h1>
+                            <h1 className={`text-[#212529] ${index % 2 === 0 ? 'font-extrabold text-[30px] md:text-[50px]' : 'font-medium text-[25px] md:text-[30px]'} my-[20px] text-center md:text-start flex items-center justify-center md:justify-start md:items-start`}>{item.title}</h1>
                             <div className="w-[100%] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-[20px]">
                                 {item.Card.map((cardItem, index) => (
                                     <div
