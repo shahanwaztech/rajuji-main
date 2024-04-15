@@ -1,0 +1,718 @@
+[
+  {
+    "title": "Sweets",
+    "slug": "sweets",
+    "heroImage": "/Products/Sweets/sweets.png",
+    "CardContent": [
+      {
+        "title": "Milk / Chena Sweets",
+        "Card": [
+          {
+            "title": "ROSOGOLLA",
+            "description": "A delicate and melt-in-your-mouth texture. Known for its mildly sweet & milky flavor.",
+            "imgSrc": "/Products/Sweets/Rossogulla.png"
+          },
+          {
+            "title": "RAJ BHOG",
+            "description": "Soft and spongy texture filled with lite keasar and pista. Soked in sugar syrup.",
+            "imgSrc": "/Products/Sweets/RajBhog.png"
+          },
+          {
+            "title": "GULAB JAMUN SPL",
+            "description": "Deep-fried milk-based dough balls soaked in fragrant sugar syrup.",
+            "imgSrc": "/Products/Sweets/GulabJamunSpl.png"
+          },
+          {
+            "title": "MILK CAKE",
+            "description": "Made from milk & sugar. It has a crumbly yet moist texture with a rich milky flavor.",
+            "imgSrc": "/Products/Sweets/MilkCake.png"
+          },
+          {
+            "title": "KALAKAND",
+            "description": "Renowned for its grainy texture and rich, milky flavor. It has a perfect balance of sweetness.",
+            "imgSrc": "/Products/Sweets/Kalakand.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Chena Items",
+        "Card": [
+          {
+            "title": "GULAB JAMUN MEDIUM",
+            "description": "Deep-fried milk-based dough balls soaked in fragrant sugar syrup."
+          },
+          {
+            "title": "GULAB JAMUN MINI",
+            "description": "Deep-fried milk-based dough balls soaked in fragrant sugar syrup."
+          },
+          {
+            "title": "CHAM CHAM RAW",
+            "description": "Cham Cham is a beloved Bengali sweet, crafted from paneer, khoya, soaked in sugar..."
+          },
+          {
+            "title": "NEW MILK CAKE",
+            "description": "Made from milk & sugar. It has a crumbly yet moist texture with a rich milky flavor."
+          },
+          {
+            "title": "GHEE KALAKAND",
+            "description": "Renowned for its grainy texture and rich and milky flavor, made out of pure ghee. It has a..."
+          },
+          {
+            "title": "MATHURA PEDA",
+            "description": "Is a traditional indian sweet that originated in the city of mathura. Made from milk with..."
+          }
+        ]
+      },
+      {
+        "title": "Chena Fancy Sweets",
+        "Card": [
+          {
+            "title": "GULAB PATTI SANDESH",
+            "description": "A delightful fusion of traditional sandesh with rose-infused flavors.",
+            "imgSrc": "/Products/Sweets/GulabPatiSandesh.png"
+          },
+          {
+            "title": "CHAM CHAM KESAR",
+            "description": "Is a delicious indian sweet that is a variation of the traditional cham cham.these treats are...",
+            "imgSrc": "/Products/Sweets/ChamChamKesar.png"
+          },
+          {
+            "title": "RABRI MALPUA",
+            "description": "Is a delicious indian dessert that combines two popular sweets: rabri and malpua.the malpua",
+            "imgSrc": "/Products/Sweets/RabriMalpua.png"
+          },
+          {
+            "title": "RASMALAI",
+            "description": "A soft and delicate spongy rosgolla dipped in thickened kesar pista milk.",
+            "imgSrc": "/Products/Sweets/Rasmalai.png"
+          },
+          {
+            "title": "KESARIA JELEBI",
+            "description": "Jalebi soaked in delectable sugar syrup- perfect to satiate your cravings.",
+            "imgSrc": "/Products/Sweets/KesariyaJalebi.png"
+          },
+          {
+            "title": "IMERTI",
+            "description": "Is a classic and indulgent indian sweet that combines the iconic spiral shape of jalebi with the...",
+            "imgSrc": "/Products/Sweets/Imreti.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Fancy Chena Items",
+        "Card": [
+          {
+            "title": "ICE CREAM SANDESH",
+            "description": "A dessert that combines the rich creaminess of ice cream with the delicate sweetness of..."
+          },
+          {
+            "title": "KESAR SANDESH",
+            "description": "Kesar sandesh is a traditional indian sweet originating from the state of bengal."
+          },
+          {
+            "title": "CHAM CHAM MALAI",
+            "description": "Malai cham cham is a delicious indian sweet. These milk-based sweets are typically flavored..."
+          },
+          {
+            "title": "CHAM CHAM KESAR MALAI",
+            "description": "Is a delicious indian sweet. It has a soft and spongy texture and is soaked in a sweet syrup..."
+          },
+          {
+            "title": "CHAM CHAM FRUIT MALAI",
+            "description": "Malai cham cham is a delicious indian sweet. These milk-based sweets are typically flavored"
+          },
+          {
+            "title": "ABARKHABO",
+            "description": "Bet you can't stop at just one!"
+          },
+          {
+            "title": "COCONUT MALAI CUP",
+            "description": "A dessert that combines the rich creaminess of ice cream with the delicate sweetness of..."
+          },
+          {
+            "title": "PARWAL",
+            "description": "Parwal sweets are a unique and innovative take on traditional indian desserts, infusing fresh..."
+          },
+          {
+            "title": "CHENA PAYESH",
+            "description": "Chena kheer is a traditional recipe which is prepared by adding small Bengali rasgullas..."
+          },
+          {
+            "title": "CHENA TOAST",
+            "description": "Creamy and rich toast with a hint of sweetness."
+          }
+        ]
+      },
+      {
+        "title": "Ghee Sweets",
+        "Card": [
+          {
+            "title": "SOAN PAPDI ELAICHI",
+            "description": "Is a popular indian sweet that is known for its flaky and melt-in-the-mouth texture and made.",
+            "imgSrc": "/Products/Sweets/SonPapdi.png"
+          },
+          {
+            "title": "LADDU KESARIA",
+            "description": "Kesaria laddoo made out of love.",
+            "imgSrc": "/Products/Sweets/LadduKesariya.png"
+          },
+          {
+            "title": "LADDU DESHI",
+            "description": "Also known as motichoor laddu, is a popular indian sweet. Made with pure desi ghee.",
+            "imgSrc": "/Products/Sweets/LadduDeshi.png"
+          },
+          {
+            "title": "LADDU KANPURI",
+            "description": "A delectable traditional sweet that will satisfy your sweet tootH",
+            "imgSrc": "/Products/Sweets/LadduKanpuri.png"
+          },
+          {
+            "title": "MOTI PAK",
+            "description": "A sumptuous & traditional indian sweet, originating from the vibrant state of gujarat...",
+            "imgSrc": "/Products/Sweets/MotiPak.png"
+          },
+          {
+            "title": "BESAN LADDU",
+            "description": "A rich & aromatic flavor, with a crumbly and melt-in-your-mouth texture.",
+            "imgSrc": "/Products/Sweets/BesanLaddu.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Ghee Items",
+        "Card": [
+          {
+            "title": "SOAN PAPDI DESHI",
+            "description": "Is a popular indian sweet that is known for its flaky and melt-in-the-mouth texture and made..."
+          },
+          {
+            "title": "LADDU SPL",
+            "description": "A delectable sweet treat perfect for satisfying your dessert cravings."
+          },
+          {
+            "title": "DILKHUSAL",
+            "description": "A classic vegetarian sweet perfect for any occasion."
+          },
+          {
+            "title": "SATTU",
+            "description": "This sweet is made by roasting sattu in pure ghee and adding sweetness to it."
+          },
+          {
+            "title": "DESHI BUNDI",
+            "description": "Desi bundi, also known as boondi, is a popular indian sweet. The combination of the..."
+          },
+          {
+            "title": "DRYFRUIT LADDU",
+            "description": "Dry fruit laddu is a healthy and energy-packed sweet treat. It is often enjoyed as a snack or..."
+          },
+          {
+            "title": "GOND PAK",
+            "description": "A traditional indian dessert made from gond(edible gum), mawa and sugar."
+          },
+          {
+            "title": "GOND LADDU",
+            "description": "A perfect and healthy fusion of refined flour and Edible Gum (Gond). Indulge in the..."
+          }
+        ]
+      },
+      {
+        "title": "Maida Sweets",
+        "Card": [
+          {
+            "title": "CHANDRAKALA",
+            "description": "indian sweet. Combining the creaminess of khoya imbeded in the crunchiness of the fried"
+          },
+          {
+            "title": "BALU SAHI",
+            "description": "A delicate flour treat immersed in a sweet syrup, after being lovingly fried in ghee!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Namkeens",
+    "slug": "namkeens",
+    "heroImage": "/Products/Namkeens/Banner_namkeen.png",
+    "CardContent": [
+      {
+        "title": "Namkeens",
+        "Card": [
+          {
+            "title": "BHUJIA",
+            "description": "The flavorful & satisfying taste makes it an irresistible choice for a spicy treat.",
+            "imgSrc": "/Products/Namkeens/BHUJIYA.png"
+          },
+          {
+            "title": "JHAL CHANACHUR",
+            "description": "A zesty & spicy snack for all spicy lovers.",
+            "imgSrc": "/Products/Namkeens/JhalChanachur.png"
+          },
+          {
+            "title": "KHATTA MITHA",
+            "description": "A crispy snack prepared using sweet and sour.",
+            "imgSrc": "/Products/Namkeens/KhattaMetha.png"
+          },
+          {
+            "title": "MOONG DAL",
+            "description": "Fried dal for people who loves sober test.",
+            "imgSrc": "/Products/Namkeens/MoongDal.png"
+          },
+          {
+            "title": "SADA CHIPS",
+            "description": "A pure flavor of thinly sliced potatoes, lightly seasoned & perfectly crisp.",
+            "imgSrc": "/Products/Namkeens/SadaChips.png"
+          },
+          {
+            "title": "ALL IN ONE",
+            "description": "A delicious & crunchy snack of all type of indian namkeens mixed together to give it a...",
+            "imgSrc": "/Products/Namkeens/AllInOne.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Namkeen Items",
+        "Card": [
+          {
+            "title": "KHASTA CHANACHUR",
+            "description": "A crispy and crunchy Bengali snack made from fried lentil or gram flour noodles, mixed with..."
+          },
+          {
+            "title": "CORNFLAKS MIXTURE",
+            "description": "A crunch of cornflakes with dry fruits making it a unique blend of crunch & health."
+          },
+          {
+            "title": "PANCHRATAN",
+            "description": "It is made of mixed flavor of sour and sweet potato sticks and dry fruits. You wouldn't..."
+          },
+          {
+            "title": "KAJU DALMOTH",
+            "description": "A savory Indian snack made from roasted cashews (kaju), lentil drops (dalmooth), and a..."
+          },
+          {
+            "title": "BADAM DALMOTH",
+            "description": "A crunchy and savory Indian snack made from roasted almonds (badam), lentil drops..."
+          },
+          {
+            "title": "CHILI POTATO CHIPS",
+            "description": "Chili potato chips are a tasty snack featuring thin slices of potatoes that have been..."
+          },
+          {
+            "title": "KABLI MIX",
+            "description": "It is made of mixed flavor of sour and sweet potato sticks and dry fruits. You wouldn't..."
+          },
+          {
+            "title": "DRYFRUIT DALMOTH",
+            "description": "A savory Indian snack made from a mixture of fried lentil or gram flour noodles, combined..."
+          },
+          {
+            "title": "SAHI DALMOTH",
+            "description": "Is a popular north indian snack that originated in the state of uttar pradesh. It is a savory and..."
+          },
+          {
+            "title": "AMIR CHANACHUR",
+            "description": "A popular brand of spicy snack mix originating from Bangladesh, typically made..."
+          },
+          {
+            "title": "TOK JHAL MISTI",
+            "description": "Tok jhal misti chanachur is a popular bengali snack. This mixture combines spiciness,..."
+          },
+          {
+            "title": "MARWARI BHUJIA",
+            "description": "Is a flavorful indian snack hailing from the state of rajasthan . It's chana bhujiya...."
+          },
+          {
+            "title": "PAPDI BESAN",
+            "description": "Crisp and flavorful savory snack perfect for munching on anytime."
+          },
+          {
+            "title": "BHAVNAGRI",
+            "description": "Experience the irresistible crunch and fiery flavor explosion of our Bhavnagari."
+          },
+          {
+            "title": "GANTHIA",
+            "description": "Crispy and savory, this traditional Indian snack bursts with flavors and offers a..."
+          },
+          {
+            "title": "MASALA MURI",
+            "description": "Embark on a flavor adventure with masala muri, where puffed rice is expertly tossed with a..."
+          },
+          {
+            "title": "KHOKA BHUJIA",
+            "description": "A savory and crunchy Indian snack that will leave your taste buds satisfied."
+          }
+        ]
+      },
+      {
+        "title": "Maida Namkeens",
+        "Card": [
+          {
+            "title": "MINI KACHORI",
+            "description": "A deep-fried pastry filled with a savory stuffing, known for its crispy outer shell & flavorful...",
+            "imgSrc": "/Products/Namkeens/MiniKachori.png"
+          },
+          {
+            "title": "MINI SINGHARA",
+            "description": "Mini sized samosa with dry aromatic filling best for your snack time.",
+            "imgSrc": "/Products/Namkeens/MiniSinghara.png"
+          },
+          {
+            "title": "METHI SWALI",
+            "description": "A savory snack infused with the distinct flavors of fenugreek leaves & aromatic spices.",
+            "imgSrc": "/Products/Namkeens/MethiSwali.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Maida Namkeen Items",
+        "Card": [
+          {
+            "title": "SADA SWALI",
+            "description": "A traditional tea times snack of india."
+          },
+          {
+            "title": "LAMBA PAPDI",
+            "description": "Is a popular indian snack that belongs to the category of crispy and savory foods. It is..."
+          },
+          {
+            "title": "JAWA NAMKIN",
+            "description": "India’s favourite salty tea time snack."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Snacks",
+    "slug": "snacks",
+    "heroImage": "/Products/Snacks/snacksBanner.png",
+    "CardContent": [
+      {
+        "title": "Snacks",
+        "Card": [
+          {
+            "title": "SINGHARA BIKANERI",
+            "description": "A crispy and satisfying snack perfect for any occasion.",
+            "imgSrc": "/Products/Snacks/SingharaBikaneri.png"
+          },
+          {
+            "title": "KHASTA KACHORI",
+            "description": "Golden fried delights filled with savory spiced lentils.",
+            "imgSrc": "/Products/Snacks/KhastaKachori.png"
+          },
+          {
+            "title": "DHOKLA",
+            "description": "A harmonious blend of fermented goodness, offering a taste of authentic indian flavors...",
+            "imgSrc": "/Products/Snacks/Dhokla.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Snacks Items",
+        "Card": [
+          {
+            "title": "CUTLET",
+            "description": "A mix of various steamed vegetables like bit, beans, peas and carrot mixed in potato."
+          },
+          {
+            "title": "VEG PATTIES",
+            "description": "Appetizing vegetable patties are a delicious treat. They are loaded with potatoes, carrots,..."
+          },
+          {
+            "title": "KHANDVI",
+            "description": "A rolled-up marvel of gram flour perfection. Silky smooth, adorned with mustard seeds,..."
+          }
+        ]
+      },
+      {
+        "title": "Sandwiches",
+        "Card": [
+          {
+            "title": "VEG PIZZA",
+            "description": "Hand made base of our veg pizza with fresh tomato, capscicum and cheese.",
+            "imgSrc": "/Products/Snacks/VegPizza.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Sandwich Items",
+        "Card": [
+          {
+            "title": "VEG GRILL CHEESE SANDWICH",
+            "description": "A symphony of grilled vegetables tucked between slices.offering a medley of..."
+          },
+          {
+            "title": "VEG CHEESE SANDWICH",
+            "description": "An ooey-gooey sandwich filled with tasty veggies and melty cheese."
+          },
+          {
+            "title": "CHOLE SLOW SANDWICH",
+            "description": "A delightful ensemble of fresh vegetables, layered with zesty spreads, nestled between soft..."
+          },
+          {
+            "title": "VEG CHEESE BURGER",
+            "description": "A symphony of flavors featuring a savory vegetable patty with melted cheese."
+          }
+        ]
+      },
+      {
+        "title": "Chaat",
+        "Card": [
+          {
+            "title": "RAJ KACHORI",
+            "description": "King sized Kachori stuffed with sprouts, vegetables,crispy pakoris, yogurt, and topped...",
+            "imgSrc": "/Products/Snacks/RajKachori.png"
+          },
+          {
+            "title": "DAHI VADA",
+            "description": "Soft lentil flat dumplings soaked in creamy yogurt, garnished with aromatic spices.",
+            "imgSrc": "/Products/Snacks/DahiVada.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Chaat Items",
+        "Card": [
+          {
+            "title": "PAPDI CHAT",
+            "description": "Crispy papdis adorned with tangy chutneys, yogurt, and spices create a mouthwatering..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Seasonal",
+    "slug": "seasonal",
+    "heroImage": "/Products/Seasonals/seasonalBanner.png",
+    "CardContent": [
+      {
+        "title": "Seasonal",
+        "Card": [
+          {
+            "title": "DESHI GHEWAR",
+            "description": "A traditional Indian sweet delicacy originating from Rajasthan, characterized by its...",
+            "imgSrc": "/Products/Seasonals/DesiGewar.png"
+          },
+          {
+            "title": "MILK GHEWAR BIG",
+            "description": "Made of pure milk, no additive no colour...its pure",
+            "imgSrc": "/Products/Seasonals/Ghewar.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Seasonal Items",
+        "Card": [
+          {
+            "title": "DALDA GHEWAR",
+            "description": "A traditional Indian sweet made with Dalda (hydrogenated vegetable oil), known for its..."
+          },
+          {
+            "title": "MILK GHEWAR SMALL",
+            "description": "Made of pure milk, no additive no colour...its pure"
+          },
+          {
+            "title": "MILK GHEWAR MINI",
+            "description": "Made of pure milk, no additive no colour...its pure"
+          },
+          {
+            "title": "DESHI FENI",
+            "description": "Made of pure milk, no additive no colour...its pure"
+          },
+          {
+            "title": "LACHHA FENI",
+            "description": "Made of pure milk, no additive no colour...its pure"
+          },
+          {
+            "title": "MILK FENI",
+            "description": "Made of pure milk, no additive no colour...its pure"
+          },
+          {
+            "title": "GAJAK",
+            "description": "A traditional Indian sweet made from sesame seeds or peanuts and jaggery, pressed into thin..."
+          },
+          {
+            "title": "TIL",
+            "description": "Sesame seeds, commonly used in Indian cuisine to add nutty flavor and texture to various..."
+          },
+          {
+            "title": "MOONGFALI",
+            "description": "The Hindi term for peanuts, a versatile legume widely used in Indian cuisine for its nutty flav..."
+          },
+          {
+            "title": "STRAWBERRY",
+            "description": "A vibrant red fruit with a sweet and slightly tart flavor, commonly enjoyed fresh, in..."
+          },
+          {
+            "title": "LITCHI",
+            "description": "A tropical fruit with a sweet and fragrant flavor, featuring juicy translucent flesh encased in a..."
+          },
+          {
+            "title": "MANGO",
+            "description": "A tropical fruit known for its sweet and juicy flesh, vibrant color, and distinctive aroma, enjoyed fresh, in smoothies,..."
+          },
+          {
+            "title": "SITAPHAL",
+            "description": "Sitaphal, also known as custard apple or sugar apple, is a tropical fruit with a creamy and..."
+          },
+          {
+            "title": "ORANGE",
+            "description": "A citrus fruit with a bright orange-colored outer peel and juicy, pulpy segments inside,..."
+          },
+          {
+            "title": "GRAPES",
+            "description": "Small, juicy fruits growing in clusters on vines, available in various colors including green,..."
+          },
+          {
+            "title": "BLUEBERRY",
+            "description": "Small, round berries with a deep blue-purple color, known for their sweet and tangy flavor,..."
+          },
+          {
+            "title": "PISTA",
+            "description": "Also known as pistachio, it's a type of nut with a greenish outer shell and a rich, buttery..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bakery",
+    "slug": "bakery",
+    "heroImage": "/Products/Bakery/Banner_cookies.png",
+    "CardContent": [
+      {
+        "title": "Bakery Cookies",
+        "Card": [
+          {
+            "title": "JEERA TWIST KHARI",
+            "description": "A savory & flaky pastry flavored with cumin seeds.",
+            "imgSrc": "/Products/Bakery/KajuPistaBite.png"
+          },
+          {
+            "title": "KAJU PISTA BITE",
+            "description": "A handmade cookie loaded with kaju & pistachios made with lots of love.",
+            "imgSrc": "/Products/Bakery/KajuPistaBite.png"
+          },
+          {
+            "title": "ATTA BISCUIT",
+            "description": "A rajasthani handmade cookies made with pure ghee & atta.",
+            "imgSrc": "/Products/Bakery/AttaBite.png"
+          },
+          {
+            "title": "FRUIT BITE",
+            "description": "Small, bite-sized snacks made with a variety of dried fruits.",
+            "imgSrc": "/Products/Bakery/AttaBite.png"
+          },
+          {
+            "title": "BADAM BITE",
+            "description": "Known for its rich and nutty flavor. It is enjoyed as a dessert or snack.",
+            "imgSrc": "/Products/Bakery/BadamBite.png"
+          },
+          {
+            "title": "CHOCO BITe",
+            "description": "Small, bite-sized treats made primarily with chocolate.",
+            "imgSrc": "/Products/Bakery/ChocoBite.png"
+          },
+          {
+            "title": "AJWAINE BITE",
+            "description": "A savory & flaky pastry flavored with cumin seeds.",
+            "imgSrc": "/Products/Bakery/AjwainBite.png"
+          },
+          {
+            "title": "ALMOND STICK",
+            "description": "A delectable treat showcasing the natural goodness & nutty flavor of almonds in a slender...",
+            "imgSrc": "/Products/Bakery/AjwainBite.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Bakery Cookies Items",
+        "Card": [
+          {
+            "title": "JEERA TWIST KHARI",
+            "description": "A savory Indian pastry made from puff pastry dough flavored with cumin seeds (jeera),..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Resturant Items",
+    "slug": "resturant-items",
+    "heroImage": "/Products/Namkeens/Banner_namkeen.png",
+    "CardContent": [
+      {
+        "title": "Restaurant Items",
+        "Card": [
+          {
+            "title": "CHOLA BHATURA",
+            "description": "A spicy chickpea curry paired with fluffy, deep-fried bread, bursting with flavors of North...",
+            "imgSrc": "/Products/ResturantItems/CholaBhatura.png"
+          }
+        ]
+      },
+      {
+        "title": "Other Restaurant Items",
+        "Card": [
+          {
+            "title": "RADHABALLVI",
+            "description": "A delicacy consisting of deep-fried lentil-stuffed flatbreads, showcasing a rich and savory..."
+          },
+          {
+            "title": "SABJI KHASTA KACHORI",
+            "description": "Crispy fried pastry filled with spiced vegetable mixture, a flavorful Indian snack."
+          },
+          {
+            "title": "IDLY SAMBAR CHATNI",
+            "description": "A South Indian breakfast staple featuring soft steamed rice cakes (idlis) served with tangy..."
+          },
+          {
+            "title": "PLAIN DOSA",
+            "description": "A thin, crispy, and golden-brown fermented rice and lentil crepe, often served with..."
+          },
+          {
+            "title": "MASALA DOSA",
+            "description": "A thin, crispy rice and lentil crepe filled with a spiced potato filling, typically served with..."
+          },
+          {
+            "title": "CHOWMEIN",
+            "description": "A popular Chinese stir-fried noodle dish, typically made with egg noodles, vegetables, and..."
+          },
+          {
+            "title": "NAAN",
+            "description": "A traditional Indian flatbread, typically made from leavened dough and cooked in a tandoor..."
+          },
+          {
+            "title": "MASALA KULCHA",
+            "description": "Spiced potato-stuffed North Indian bread, bursting with flavor and baked to perfection."
+          },
+          {
+            "title": "FALKA",
+            "description": "A type of sweet, crisp fried bread or pastry found in some Indian cuisines, particularly in..."
+          },
+          {
+            "title": "PULAO",
+            "description": "A fragrant and flavorful rice dish cooked with aromatic spices, vegetables, and sometimes..."
+          },
+          {
+            "title": "MIX VEG PANEER",
+            "description": "A savory Indian dish featuring a medley of mixed vegetables and paneer (Indian cottage..."
+          },
+          {
+            "title": "DAL MAKHANI",
+            "description": "A rich and creamy Punjabi lentil dish made with black lentils (urad dal), kidney beans (rajma),..."
+          },
+          {
+            "title": "DAL FRY",
+            "description": "A flavorful Indian lentil dish made by tempering cooked lentils (usually yellow lentils"
+          },
+          {
+            "title": "RAITA",
+            "description": "A refreshing yogurt-based side dish seasoned with spices and often mixed with chopped..."
+          }
+        ]
+      }
+    ]
+  }
+]
