@@ -32,7 +32,7 @@ const AboutPage = () => {
                             time, in 1923, two spice wizards named Bhikharam and his son Chandmal concocted the
                             ultimate snack sensation in Bikaner - bhujia! This spicy treat quickly became a fan
                             favorite!
-                            Next thing you know, Chandmal's son, Kishan, took the bhujia craze to Kolkata, where the
+                            Next thing you know, Chandmal&apos;s son, Kishan, took the bhujia craze to Kolkata, where the
                             magic
                             continued. Fast forward to today, with the help of the wise Raj Kumar Agarwal, the brand has
                             bloomed into a full-fledged flavor fiesta. From sweet to savory, Bhikharam Chandmal Rajuji
@@ -52,7 +52,7 @@ const AboutPage = () => {
                         />
                     </div>
                     <div className="lg:w-[50%] w-[100%]">
-                        <h1 className="text-[30px] text-center md:text-start md:text-[40px] font-extrabold text-[#212529] uppercase">Director's
+                        <h1 className="text-[30px] text-center md:text-start md:text-[40px] font-extrabold text-[#212529] uppercase">Director&apos;s
                             Desk</h1>
                         <p className="text-[1rem] md:text-[1.25rem] mb-[20px] font-normal text-[#212529] leading-normal text-justify flex flex-col gap-[15px]">Welcome
                             to
@@ -64,14 +64,14 @@ const AboutPage = () => {
                             Guided by Shri Raj Kumar ji Agarwal, our journey of excellence has continued, maintaining
                             top-notch taste, quality, and hygiene standards
                             <span>
-                        With eight outlets in Kolkata and a daily clientele exceeding 5000, we've shared our century-old
-                        experience with India. Now, we're thrilled to introduce our authentic Indian sweets and snacks
+                        With eight outlets in Kolkata and a daily clientele exceeding 5000, we&apos;ve shared our century-old
+                        experience with India. Now, we&apos;re thrilled to introduce our authentic Indian sweets and snacks
                         to the world, including favorites like Bhujiya, Tok Jhal Misti, Khasta Mix and more.<br/>
                         Our vision is simple: to make these beloved creations accessible globally while ensuring the
                         highest quality at competitive rates.<br/>
                         </span>
                             <span>
-                        Thank you for being part of our extraordinary journey. We can't wait to share the joy of our
+                        Thank you for being part of our extraordinary journey. We can&apos;t wait to share the joy of our
                         authentic culinary offerings with you.</span>
                             <span className="flex flex-col gap-[5px]">
                             <span>Warm regards,</span>
@@ -100,7 +100,7 @@ const AboutPage = () => {
                                 tapestry of
                                 our culinary heritage to every corner of the globe. Established in 1923, our journey
                                 began
-                                with a family's passion for crafting exceptional flavors, starting with the beloved
+                                with a family&apos;s passion for crafting exceptional flavors, starting with the beloved
                                 bhujia.
                                 <span>
                                 With over a century of experience, we have evolved into a symbol of excellence under the
@@ -137,7 +137,7 @@ const AboutPage = () => {
                         <div className="lg:w-[50%] w-[100%]">
                             <h1 className="text-[30px] md:text-[40px] text-center md:text-start font-extrabold text-[#212529] uppercase">Our
                                 Mission</h1>
-                            <p className="text-[1rem] md:text-[1.25rem] font-normal text-[#212529] leading-normal text-justify flex flex-col gap-[15px]">"At
+                            <p className="text-[1rem] md:text-[1.25rem] font-normal text-[#212529] leading-normal text-justify flex flex-col gap-[15px]">&quot;At
                                 Bhikharam Chandmal Rajuji, our mission is driven by a passion to share the authentic
                                 flavors
                                 of India with the
@@ -185,8 +185,8 @@ const AboutPage = () => {
                                 </ul>
                                 <span>
                                 Our mission goes beyond business; it is about creating meaningful connections, fostering growth and
-                                enriching lives through the joy of our products. Together, let's embark on a journey of shared
-                                success and culinary delight."
+                                enriching lives through the joy of our products. Together, let&apos;s embark on a journey of shared
+                                success and culinary delight.&quot;
                             </span>
                             </p>
                         </div>

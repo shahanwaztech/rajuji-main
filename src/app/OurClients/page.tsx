@@ -93,14 +93,14 @@ const OurClientPage = () => {
 
                 </span>
                     <span>
-                    To offer a closer glimpse into our partnerships, we've attached customer feedback
+                    To offer a closer glimpse into our partnerships, we&apos;ve attached customer feedback
                     documents showcasing the confidence our corporate clients have in us. These
                     testimonials not only validate our product quality but also emphasize the integrity
                     of our operations. Additionally, we provide a visual tour through our retail spaces
                     in the following slides, demonstrating the meticulous care and dedication we invest in
                     showcasing our products. Moreover, snippets of Google Reviews from our cherished retail
                     customers serve as a testament to the genuine satisfaction and positive experiences
-                    they've had with us.
+                    they&apos;ve had with us.
                 </span>
                     <span>
                     Our dedication to excellence extends beyond product quality; it encompasses the

@@ -5,9 +5,9 @@ import Link from "next/link";
 import {useRouter} from "next/navigation";
 
 interface DropDownLink {
-    id: number;
-    name: string;
-    slug: string;
+    id: number,
+    name: string,
+    slug: string,
 }
 
 const DropDownLinks: DropDownLink[] = [

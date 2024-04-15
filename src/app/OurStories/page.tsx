@@ -160,6 +160,7 @@ const OurStoriesPage = () => {
                     className="w-[100%] px-[20px] md:px-[40px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-[30px] mb-[40px]">
                     {StoreData.map((item) => (
                         <StoreCard
+                            key={item.id}
                             title={item.title}
                             address={item.address}
                             PhoneNumber={item.PhoneNumber}
